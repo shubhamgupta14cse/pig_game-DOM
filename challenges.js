@@ -1,6 +1,4 @@
-/*
- follow these rules:
-
+/* rules:
 1. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100. 
 2. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
 */
