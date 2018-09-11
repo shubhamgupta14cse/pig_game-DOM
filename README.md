@@ -12,6 +12,10 @@ just clone the repository at your local environment and open the index.html file
 ![app2](https://user-images.githubusercontent.com/17953528/45348713-044edb00-b5cd-11e8-88fa-f6730dfd0527.png)
 
 
+## Deploy 
+```
+https://pig-dom-game-shubham.firebaseapp.com/
+```
 
 ## Acknowledgments
 
